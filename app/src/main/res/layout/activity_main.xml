@@ -47,7 +47,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:hint="mail@dominio.com" />
+            android:hint="mail@dominio.com"
+            android:minHeight="48dp" />
 
         <TextView
             android:layout_width="match_parent"
@@ -59,7 +60,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:hint="password" />
+            android:hint="password"
+            android:minHeight="48dp" />
 
         <Button
             android:layout_width="match_parent"
